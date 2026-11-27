@@ -8,7 +8,9 @@ INCLUDEPATH += include
 
 SOURCES += \
     src/main.cpp \
-    src/entidadfisica.cpp
+    src/entidadfisica.cpp \
+    src/excepcionjuego.cpp
 
 HEADERS += \
-    include/entidadfisica.h
+    include/entidadfisica.h \
+    include/excepcionjuego.h
