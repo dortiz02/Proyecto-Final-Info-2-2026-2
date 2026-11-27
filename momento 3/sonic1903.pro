@@ -7,6 +7,8 @@ TEMPLATE = app
 INCLUDEPATH += include
 
 SOURCES += \
-    src/main.cpp
+    src/main.cpp \
+    src/entidadfisica.cpp
 
-HEADERS +=
+HEADERS += \
+    include/entidadfisica.h
